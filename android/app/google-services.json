@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808334997140",
+    "project_id": "andrew-in-pour",
+    "storage_bucket": "andrew-in-pour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808334997140:android:fb7af68db19da3f4faa681",
+        "android_client_info": {
+          "package_name": "com.example.in_pour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808334997140-ukugscelsk6i98036nt3grojkungajfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.in_pour",
+            "certificate_hash": "9234418171bde1de87535cec698d367fe08a6718"
+          }
+        },
+        {
+          "client_id": "808334997140-4ljl9td4cghatbqn263t504v02qp2da3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-4kM-3uHqU36vZn4s9OnRuijjk_5nlO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808334997140-4ljl9td4cghatbqn263t504v02qp2da3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
